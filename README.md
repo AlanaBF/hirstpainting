@@ -1,4 +1,4 @@
-#Hirst Iinspired Painting
+#Hirst Inspired Painting
 
 Idea developed from 100 Days of Code Python course with Angela Yu.
 
